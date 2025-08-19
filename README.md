@@ -32,14 +32,15 @@ pip install -r requirements.txt
 3. Download datasets and place them in a Datasets folder or add the Kaggle API.
 
 ## Datasets
-- Task 1: ([https://www.kaggle.com/datasets/lainguyn123/student-performance-factors])((Student Performance Factors))
-- Task 2: [https://www.kaggle.com/code/yousefmohamed20/mall-customer-segmentation-using-kmeans](Mall Customer Dataset)
-- Task 3: [https://archive.ics.uci.edu/dataset/31/covertype](Forest Cover Type)
-- Task 4: [https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset](Loan Approval Prediction)
-- Task 5: [https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset](MovieLens 100K)
-- Task 6: [https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification](GTZAN Music Genre)
-- Task 7: [https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast](Walmart Sales Forecasting)
-- Task 8: [https://www.kaggle.com/code/alymadian/gtsrb-traffic-signs-image-classification-95-cnn](GTSRB Traffic Sign Recognition)
+
+- Task 1: [Student Performance Factors](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)  
+- Task 2: [Mall Customer Dataset](https://www.kaggle.com/code/yousefmohamed20/mall-customer-segmentation-using-kmeans)  
+- Task 3: [Forest Cover Type](https://archive.ics.uci.edu/dataset/31/covertype)  
+- Task 4: [Loan Approval Prediction](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)  
+- Task 5: [MovieLens 100K](https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset)  
+- Task 6: [GTZAN Music Genre](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)  
+- Task 7: [Walmart Sales Forecasting](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)  
+- Task 8: [GTSRB Traffic Sign Recognition](https://www.kaggle.com/code/alymadian/gtsrb-traffic-signs-image-classification-95-cnn)  
 
 ## Tasks Overview
 ### Task 1
