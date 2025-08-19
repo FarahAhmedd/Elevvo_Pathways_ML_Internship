@@ -32,7 +32,7 @@ pip install -r requirements.txt
 3. Download datasets and place them in a Datasets folder or add the Kaggle API.
 
 ## Datasets
-- Task 1: [https://www.kaggle.com/datasets/lainguyn123/student-performance-factors](Student Performance Factors)
+- Task 1: ([https://www.kaggle.com/datasets/lainguyn123/student-performance-factors])((Student Performance Factors))
 - Task 2: [https://www.kaggle.com/code/yousefmohamed20/mall-customer-segmentation-using-kmeans](Mall Customer Dataset)
 - Task 3: [https://archive.ics.uci.edu/dataset/31/covertype](Forest Cover Type)
 - Task 4: [https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset](Loan Approval Prediction)
